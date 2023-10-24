@@ -15,4 +15,5 @@ function fizzBuzz() {
   }
 
   document.getElementById("result").innerHTML = answer;
+  console.log(answer);
 }
